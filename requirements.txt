@@ -1,0 +1,11 @@
+PySide6
+tensorflow
+opencv-python
+numpy
+mtcnn
+deepface
+mediapipe
+wandb
+matplotlib
+scikit-learn
+seaborn
